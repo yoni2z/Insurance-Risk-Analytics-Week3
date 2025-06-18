@@ -8,3 +8,4 @@ dvc
 scikit-learn 
 xgboost 
 shap
+jupyter
