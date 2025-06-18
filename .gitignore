@@ -1,3 +1,7 @@
+# Ignore all data files except .dvc files
+data/*
+!data/*.dvc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
